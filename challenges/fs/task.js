@@ -1,1 +1,0 @@
-// Copy contents from hello.html to hello-copy.html
